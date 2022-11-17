@@ -1,3 +1,3 @@
-# CodeSandbox Tailwindcss playground
+# CodeSandbox Tailwind CSS playground
 
-This is a template to create a Tailwindcss environment for experimenting
+This is a template to create a Tailwind CSS environment for experimenting
