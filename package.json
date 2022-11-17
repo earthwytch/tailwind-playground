@@ -1,0 +1,29 @@
+{
+  "name": "tailwind-playground",
+  "version": "1.0.0",
+  "description": "A code sandbox to play with tailwindcss",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earthwytch/tailwind-playground.git"
+  },
+  "keywords": [],
+  "author": "Josephine Fahy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earthwytch/tailwind-playground/issues"
+  },
+  "homepage": "https://github.com/earthwytch/tailwind-playground#readme",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "tailwind-config-viewer": "^1.7.1",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
